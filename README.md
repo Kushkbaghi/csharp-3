@@ -1,5 +1,5 @@
 # csharp-3
-﻿## Gustlist
+## Gustlist
 
 ### Syfte
 > Syftet med uppgiften är att:
